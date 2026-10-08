@@ -1,5 +1,5 @@
 /**
- * LLM Chat App Frontend
+ * HuanMe Chat App Frontend
  *
  * Handles the chat UI interactions and communication with the backend API.
  */

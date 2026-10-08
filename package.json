@@ -2,7 +2,7 @@
 	"name": "llm-chat-app-template",
 	"description": "A simple chat application powered by Cloudflare Workers AI",
 	"cloudflare": {
-		"label": "LLM Chat App",
+		"label": "HuanMe Chat App",
 		"products": [
 			"Workers",
 			"Workers AI",
